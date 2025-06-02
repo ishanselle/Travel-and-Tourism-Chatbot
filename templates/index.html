@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Travel Guide Bot</title>
+  <!-- Link to the CSS file -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <!-- Main Chat Container -->
+  <div class="chat-container">
+    
+    <!-- Chat Header with Chat Icon before the title -->
+    <div class="chat-header">
+      <div class="chat-icon">
+        <!-- Chat Icon -->
+        <img src="{{ url_for('static', filename='pictures/Icon-removebg02.png') }}" alt="Chat Icon" class="icon" />
+      </div>
+      <!-- Chat Title -->
+      Travel Guide Bot
+    </div>
+
+    <!-- Chat Window to display messages -->
+    <div id="chat-box" class="chat-window">
+      <div class="bot-message message">
+        Welcome to Travel Guide Bot! Ask me about countries, cities, attractions, food, hotels, or transportation.
+        <div class="message-time">Just now</div>
+      </div>
+    </div>
+
+    <!-- User Input Area for sending messages -->
+    <div class="chat-input-area">
+      <input type="text" id="user-input" placeholder="Type your message (e.g., 'Tell me about Bangkok' or 'What to eat in Tokyo?')..." />
+      <button id="send-button">Send</button>
+    </div>
+  </div>   
+
+  <!-- Link to the JavaScript file -->
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

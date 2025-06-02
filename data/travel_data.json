@@ -1,0 +1,424 @@
+{
+  "travel_data": [
+    {
+      "country": "Thailand",
+      "city": "Bangkok",
+      "top_attractions": ["Grand Palace", "Wat Arun", "Floating Markets"],
+      "native_cuisine": ["Pad Thai", "Tom Yum Goong"],
+      "best_time_to_visit": "Nov–Feb (cool, dry season)",
+      "safety_tips": "Beware of tuk-tuk scams; use official taxis or Grab",
+      "notable_hotels": ["Mandarin Oriental", "The Siam"],
+      "recommended_restaurants": {
+        "Jay Fai": "Michelin-starred street food",
+        "Bo.lan": "Thai fine dining"
+      },
+      "transportation_highlights": "Extensive BTS Skytrain and MRT systems; affordable tuk-tuks and river ferries"
+    },
+    {
+      "country": "Turkey",
+      "city": "Istanbul",
+      "top_attractions": ["Hagia Sophia", "Blue Mosque", "Grand Bazaar"],
+      "native_cuisine": ["Kebab", "Baklava", "Meze"],
+      "best_time_to_visit": "Apr–May, Sep–Oct (mild)",
+      "safety_tips": "Stay alert in crowded areas; avoid unofficial taxis",
+      "notable_hotels": ["Four Seasons at Sultanahmet", "Ciragan Palace Kempinski"],
+      "recommended_restaurants": {
+        "Mikla": "modern Turkish",
+        "Ciya Sofrası": "authentic Anatolian"
+      },
+      "transportation_highlights": "Efficient tram and metro systems; Istanbulkart for seamless travel"
+    },
+    {
+      "country": "United Kingdom",
+      "city": "London",
+      "top_attractions": ["Tower of London", "British Museum", "Buckingham Palace"],
+      "native_cuisine": ["Fish & Chips", "Sunday Roast"],
+      "best_time_to_visit": "May–Sep (pleasant weather)",
+      "safety_tips": "Be cautious of pickpockets in tourist areas; adhere to local customs",
+      "notable_hotels": ["The Savoy", "The Ritz London"],
+      "recommended_restaurants": {
+        "Dishoom": "Indian",
+        "Sketch": "modern European"
+      },
+      "transportation_highlights": "Comprehensive Underground (Tube) network; Oyster Card for convenience"
+    },
+    {
+      "country": "Hong Kong SAR",
+      "city": "Hong Kong",
+      "top_attractions": ["Victoria Peak", "Star Ferry", "Temple Street Night Market"],
+      "native_cuisine": ["Dim Sum", "Roast Goose"],
+      "best_time_to_visit": "Oct–Dec (cool, dry season)",
+      "safety_tips": "Avoid unlicensed taxis; be aware of political demonstrations",
+      "notable_hotels": ["Regent Hong Kong", "The Peninsula Hong Kong"],
+      "recommended_restaurants": {
+        "Tim Ho Wan": "affordable Michelin-starred dim sum",
+        "Lung King Heen": "luxury Cantonese"
+      },
+      "transportation_highlights": "Highly efficient MTR system; Octopus Card accepted across transport and retail"
+    },
+    {
+      "country": "Saudi Arabia",
+      "city": "Mecca",
+      "top_attractions": ["Masjid al-Haram", "Abraj Al Bait Towers"],
+      "native_cuisine": ["Kabsa", "Mutabbaq"],
+      "best_time_to_visit": "Nov–Feb (cooler months)",
+      "safety_tips": "Restricted to Muslims; stay hydrated and follow pilgrimage guidelines",
+      "notable_hotels": ["Swissôtel Makkah", "Conrad Makkah"],
+      "recommended_restaurants": {
+        "Al Baik": "popular fast food",
+        "Al Tazaj": "grilled chicken specialties"
+      },
+      "transportation_highlights": "Pilgrimage transport services; shuttle buses during Hajj"
+    },
+    {
+      "country": "Turkey",
+      "city": "Antalya",
+      "top_attractions": ["Kaleiçi Old Town", "Düden Waterfalls", "Roman Harbour"],
+      "native_cuisine": ["Pide", "Lahmacun"],
+      "best_time_to_visit": "Apr–Jun, Sep–Oct (mild)",
+      "safety_tips": "Exercise caution in crowded markets; respect local customs",
+      "notable_hotels": ["Akra Hotel", "Rixos Downtown Antalya"],
+      "recommended_restaurants": {
+        "7 Mehmet": "traditional Turkish",
+        "Seraser Fine Dining Restaurant": ""
+      },
+      "transportation_highlights": "Reliable bus and tram services; AntalyaKart for public transport"
+    },
+    {
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "top_attractions": ["Burj Khalifa", "Dubai Mall", "Palm Jumeirah"],
+      "native_cuisine": ["Shawarma", "Al Harees"],
+      "best_time_to_visit": "Nov–Mar (cooler months)",
+      "safety_tips": "Dress modestly; avoid public displays of affection",
+      "notable_hotels": ["Burj Al Arab", "Atlantis The Palm"],
+      "recommended_restaurants": {
+        "Zuma": "Japanese",
+        "Ravi Restaurant": "Pakistani"
+      },
+      "transportation_highlights": "Extensive metro system; Nol Card for seamless travel"
+    },
+    {
+      "country": "China",
+      "city": "Macau",
+      "top_attractions": ["Ruins of St. Paul's", "Senado Square", "Cotai Strip"],
+      "native_cuisine": ["Portuguese Egg Tarts", "Minchi"],
+      "best_time_to_visit": "Oct–Dec (pleasant weather)",
+      "safety_tips": "Be cautious in casinos; keep valuables secure",
+      "notable_hotels": ["The Venetian Macao", "Wynn Palace"],
+      "recommended_restaurants": {
+        "A Lorcha": "Portuguese",
+        "Fernando's": "Macanese"
+      },
+      "transportation_highlights": "Efficient bus services; Macau Pass for convenient travel"
+    },
+    {
+      "country": "France",
+      "city": "Paris",
+      "top_attractions": ["Eiffel Tower", "Louvre Museum", "Notre-Dame Cathedral"],
+      "native_cuisine": ["Croissants", "Coq au Vin"],
+      "best_time_to_visit": "Apr–Jun, Sep–Nov (mild)",
+      "safety_tips": "Watch out for pickpockets; avoid unlicensed taxis",
+      "notable_hotels": ["Hôtel Plaza Athénée", "Le Bristol Paris"],
+      "recommended_restaurants": {
+        "Le Jules Verne": "Eiffel Tower dining",
+        "L'Ambroisie": "French haute cuisine"
+      },
+      "transportation_highlights": "Comprehensive Metro system; Paris Visite Pass for tourists"
+    },
+    {
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "top_attractions": ["Petronas Twin Towers", "Batu Caves", "Bukit Bintang"],
+      "native_cuisine": ["Nasi Lemak", "Satay"],
+      "best_time_to_visit": "May–Jul, Dec–Feb (dry seasons)",
+      "safety_tips": "Be vigilant in crowded areas; use registered taxis or ride-hailing apps",
+      "notable_hotels": ["Mandarin Oriental Kuala Lumpur", "The Majestic Hotel Kuala Lumpur"],
+      "recommended_restaurants": {
+        "Jalan Alor": "street food haven",
+        "Marini's on 57": "Italian fine dining"
+      },
+      "transportation_highlights": "Extensive LRT and MRT systems; Touch 'n Go card for public transport"
+    },
+    {
+      "country": "United States",
+      "city": "New York City",
+      "top_attractions": ["Statue of Liberty", "Central Park", "Times Square"],
+      "native_cuisine": ["Bagels", "New York-style Pizza"],
+      "best_time_to_visit": "Apr–Jun, Sep–Nov (mild)",
+      "safety_tips": "Stay alert in crowded areas; use official taxis or ride-hailing apps",
+      "notable_hotels": ["The Plaza", "The Ritz-Carlton New York"],
+      "recommended_restaurants": {
+        "Katz's Delicatessen": "Jewish deli",
+        "Le Bernardin": "French seafood"
+      },
+      "transportation_highlights": "Comprehensive subway system; MetroCard for public transport"
+    },
+    {
+      "country": "Spain",
+      "city": "Madrid",
+      "top_attractions": ["Royal Palace", "Prado Museum", "Retiro Park"],
+      "native_cuisine": ["Tapas", "Paella"],
+      "best_time_to_visit": "Mar–May, Sep–Nov (mild)",
+      "safety_tips": "Be cautious of pickpockets; avoid unlicensed taxis",
+      "notable_hotels": ["Hotel Ritz Madrid", "Only YOU Hotel Atocha"],
+      "recommended_restaurants": {
+        "Botín": "oldest restaurant",
+        "Sobrino de Botín": "traditional Spanish"
+      },
+      "transportation_highlights": "Extensive metro and bus systems; Madrid Travel Pass for convenience"
+    },
+    {
+      "country": "Italy",
+      "city": "Rome",
+      "top_attractions": ["Colosseum", "Vatican City", "Trevi Fountain"],
+      "native_cuisine": ["Pasta Carbonara", "Gelato"],
+      "best_time_to_visit": "Apr–Jun, Sep–Oct (mild)",
+      "safety_tips": "Watch out for pickpockets; avoid unlicensed taxis",
+      "notable_hotels": ["Hotel de Russie", "Rome Cavalieri"],
+      "recommended_restaurants": {
+        "La Pergola": "Michelin-starred",
+        "Roscioli": "Italian deli"
+      },
+      "transportation_highlights": "Comprehensive metro and bus systems; Roma Pass for tourists"
+    },
+    {
+      "country": "Japan",
+      "city": "Tokyo",
+      "top_attractions": ["Tokyo Tower", "Shibuya Crossing", "Meiji Shrine"],
+      "native_cuisine": ["Sushi", "Ramen"],
+      "best_time_to_visit": "Mar–May, Sep–Nov (mild)",
+      "safety_tips": "Earthquake preparedness; respect local customs",
+      "notable_hotels": ["Park Hyatt Tokyo", "The Ritz-Carlton Tokyo"],
+      "recommended_restaurants": {
+        "Sukiyabashi Jiro": "sushi",
+        "Ichiran": "ramen"
+      },
+      "transportation_highlights": "Extensive subway and train systems; Suica or Pasmo cards for convenience"
+    },
+    {
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "top_attractions": ["Recoleta Cemetery", "La Boca", "Teatro Colón"],
+      "native_cuisine": ["Asado", "Empanadas"],
+      "best_time_to_visit": "Sep–Nov, Mar–May (spring/fall)",
+      "safety_tips": "Be cautious in crowded areas; use registered taxis",
+      "notable_hotels": ["Alvear Palace Hotel", "Faena Hotel Buenos Aires"],
+      "recommended_restaurants": {
+        "Don Julio": "steakhouse",
+        "El Preferido de Palermo": "Argentinian cuisine"
+      },
+      "transportation_highlights": "Subte (subway) system; Sube card for public transport"
+    },
+    {
+      "country": "Indonesia",
+      "city": "Bali (Denpasar)",
+      "top_attractions": ["Uluwatu Temple", "Tegallalang Rice Terrace", "Seminyak Beach"],
+      "native_cuisine": ["Nasi Goreng", "Babi Guling"],
+      "best_time_to_visit": "Apr–Oct (dry season)",
+      "safety_tips": "Be cautious of beach scams; avoid unlicensed scooters",
+      "notable_hotels": ["The Mulia", "Four Seasons Resort"],
+      "recommended_restaurants": {
+        "Locavore": "fine dining",
+        "Bumbu Bali": "traditional"
+      },
+      "transportation_highlights": "Taxis and scooters; Grab and Gojek apps useful"
+    },
+    {
+      "country": "Singapore",
+      "city": "Singapore",
+      "top_attractions": ["Marina Bay Sands", "Gardens by the Bay", "Sentosa"],
+      "native_cuisine": ["Hainanese Chicken Rice", "Laksa"],
+      "best_time_to_visit": "Feb–Apr (pleasant weather)",
+      "safety_tips": "Respect local laws; avoid chewing gum in public",
+      "notable_hotels": ["Marina Bay Sands", "Raffles Hotel"],
+      "recommended_restaurants": {
+        "Hawker Chan": "Michelin-starred hawker",
+        "Candlenut": "Peranakan cuisine"
+      },
+      "transportation_highlights": "Highly efficient MRT system; EZ-Link or NETS FlashPay cards"
+    },
+    {
+      "country": "Australia",
+      "city": "Sydney",
+      "top_attractions": ["Sydney Opera House", "Harbour Bridge", "Bondi Beach"],
+      "native_cuisine": ["Meat Pie", "Barramundi"],
+      "best_time_to_visit": "Sep–Nov, Mar–May (mild)",
+      "safety_tips": "Watch for strong sun exposure; follow beach safety flags",
+      "notable_hotels": ["Park Hyatt Sydney", "Shangri-La Hotel"],
+      "recommended_restaurants": {
+        "Quay": "fine dining",
+        "The Grounds of Alexandria": ""
+      },
+      "transportation_highlights": "Opal Card for trains, buses, ferries, and light rail"
+    },
+    {
+      "country": "Japan",
+      "city": "Kyoto",
+      "top_attractions": ["Fushimi Inari Shrine", "Arashiyama Bamboo Grove", "Kinkaku-ji"],
+      "native_cuisine": ["Kaiseki", "Matcha Sweets"],
+      "best_time_to_visit": "Mar–May, Oct–Nov (cherry blossom & fall)",
+      "safety_tips": "Respect traditions; avoid loud public behavior",
+      "notable_hotels": ["The Ritz-Carlton Kyoto", "Hoshinoya Kyoto"],
+      "recommended_restaurants": {
+        "Gion Karyo": "kaiseki",
+        "Nishiki Warai": "okonomiyaki"
+      },
+      "transportation_highlights": "Bus and subway services; prepaid ICOCA card"
+    },
+    {
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "top_attractions": ["Christ the Redeemer", "Sugarloaf Mountain", "Copacabana Beach"],
+      "native_cuisine": ["Feijoada", "Pão de Queijo"],
+      "best_time_to_visit": "Dec–Mar (summer)",
+      "safety_tips": "Avoid walking alone at night; be wary of favelas",
+      "notable_hotels": ["Belmond Copacabana Palace", "Emiliano Rio"],
+      "recommended_restaurants": {
+        "Aprazível": "Brazilian fine dining",
+        "Fogo de Chão": "steakhouse"
+      },
+      "transportation_highlights": "MetroRio subway; use ride-hailing apps for safety"
+    },
+    {
+      "country": "South Korea",
+      "city": "Seoul",
+      "top_attractions": ["Gyeongbokgung Palace", "Myeongdong", "N Seoul Tower"],
+      "native_cuisine": ["Kimchi", "Bibimbap"],
+      "best_time_to_visit": "Mar–May, Sep–Nov (mild)",
+      "safety_tips": "Avoid taxis that don't use meters; respectful etiquette is valued",
+      "notable_hotels": ["Lotte Hotel Seoul", "Signiel Seoul"],
+      "recommended_restaurants": {
+        "Tosokchon": "samgyetang",
+        "Jungsik": "modern Korean"
+      },
+      "transportation_highlights": "Excellent subway system; T-money card for transport"
+    },
+    {
+      "country": "Germany",
+      "city": "Berlin",
+      "top_attractions": ["Brandenburg Gate", "Berlin Wall", "Museum Island"],
+      "native_cuisine": ["Currywurst", "Schnitzel"],
+      "best_time_to_visit": "May–Sep (warm, festivals)",
+      "safety_tips": "Beware of bike lanes when walking; public transport is safe",
+      "notable_hotels": ["Hotel Adlon Kempinski", "The Ritz-Carlton Berlin"],
+      "recommended_restaurants": {
+        "Mustafas Gemüse Kebap": "street food",
+        "Tim Raue": "modern German"
+      },
+      "transportation_highlights": "S-Bahn and U-Bahn systems; Berlin WelcomeCard for travelers"
+    },
+    {
+      "country": "India",
+      "city": "Delhi",
+      "top_attractions": ["Red Fort", "Qutub Minar", "Lotus Temple"],
+      "native_cuisine": ["Butter Chicken", "Chole Bhature"],
+      "best_time_to_visit": "Oct–Mar (cool, dry season)",
+      "safety_tips": "Avoid drinking tap water; beware of scams in tourist spots",
+      "notable_hotels": ["The Imperial New Delhi", "Taj Palace Hotel"],
+      "recommended_restaurants": {
+        "Karim's": "Mughlai",
+        "Indian Accent": "modern Indian"
+      },
+      "transportation_highlights": "Metro network is extensive and cheap; use prepaid taxis"
+    },
+    {
+      "country": "Morocco",
+      "city": "Marrakech",
+      "top_attractions": ["Jardin Majorelle", "Bahia Palace", "Medina"],
+      "native_cuisine": ["Tagine", "Couscous"],
+      "best_time_to_visit": "Mar–May, Sep–Nov (mild)",
+      "safety_tips": "Respect local dress codes; beware of street hustlers",
+      "notable_hotels": ["La Mamounia", "Royal Mansour"],
+      "recommended_restaurants": {
+        "Nomad": "modern Moroccan",
+        "Al Fassia": "traditional"
+      },
+      "transportation_highlights": "Taxis and local buses; negotiate prices beforehand"
+    },
+    {
+      "country": "USA",
+      "city": "Las Vegas",
+      "top_attractions": ["The Strip", "Bellagio Fountains", "Fremont Street"],
+      "native_cuisine": ["Prime Rib", "Shrimp Cocktail"],
+      "best_time_to_visit": "Mar–May, Sep–Nov",
+      "safety_tips": "Stay within populated zones; monitor spending in casinos",
+      "notable_hotels": ["Bellagio", "The Venetian"],
+      "recommended_restaurants": {
+        "Joël Robuchon": "fine dining",
+        "Lotus of Siam": "Thai"
+      },
+      "transportation_highlights": "Monorail system on The Strip; taxis and ride-shares readily available"
+    },
+    {
+      "country": "Netherlands",
+      "city": "Amsterdam",
+      "top_attractions": ["Rijksmuseum", "Anne Frank House", "Canals"],
+      "native_cuisine": ["Stroopwafel", "Haring"],
+      "best_time_to_visit": "Apr–May, Sep–Nov",
+      "safety_tips": "Watch out for bikes; beware of pickpockets near stations",
+      "notable_hotels": ["Waldorf Astoria Amsterdam", "Pulitzer Amsterdam"],
+      "recommended_restaurants": {
+        "De Kas": "farm-to-table",
+        "The Pancake Bakery": ""
+      },
+      "transportation_highlights": "GVB tram and metro; I Amsterdam City Card"
+    },
+    {
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "top_attractions": ["Cu Chi Tunnels", "Ben Thanh Market", "Notre-Dame Cathedral Basilica"],
+      "native_cuisine": ["Pho", "Banh Mi"],
+      "best_time_to_visit": "Dec–Apr (dry season)",
+      "safety_tips": "Be cautious with street food; avoid unmetered taxis",
+      "notable_hotels": ["The Reverie Saigon", "Hotel Nikko Saigon"],
+      "recommended_restaurants": {
+        "Pho Hoa": "",
+        "Pizza 4P's": "fusion pizza"
+      },
+      "transportation_highlights": "Motorbikes dominate; GrabBike and public buses available"
+    },
+    {
+      "country": "Egypt",
+      "city": "Cairo",
+      "top_attractions": ["Pyramids of Giza", "Egyptian Museum", "Khan el-Khalili Bazaar"],
+      "native_cuisine": ["Koshari", "Molokhia"],
+      "best_time_to_visit": "Oct–Apr (cooler months)",
+      "safety_tips": "Avoid political gatherings; dress modestly",
+      "notable_hotels": ["Marriott Mena House", "Kempinski Nile Hotel"],
+      "recommended_restaurants": {
+        "Abou El Sid": "traditional",
+        "Zitouni": "luxury dining"
+      },
+      "transportation_highlights": "Metro system available; taxis require negotiation or meter"
+    },
+    {
+      "country": "Austria",
+      "city": "Vienna",
+      "top_attractions": ["Schönbrunn Palace", "St. Stephen's Cathedral", "Belvedere Palace"],
+      "native_cuisine": ["Wiener Schnitzel", "Sachertorte"],
+      "best_time_to_visit": "Apr–Oct (pleasant weather)",
+      "safety_tips": "Public transport is safe; validate tickets",
+      "notable_hotels": ["Hotel Sacher Wien", "The Guesthouse Vienna"],
+      "recommended_restaurants": {
+        "Figlmüller": "schnitzel",
+        "Steirereck": "Michelin-starred"
+      },
+      "transportation_highlights": "U-Bahn, trams, and buses; Vienna City Card for tourists"
+    },
+    {
+      "country": "Canada",
+      "city": "Toronto",
+      "top_attractions": ["CN Tower", "Royal Ontario Museum", "Distillery District"],
+      "native_cuisine": ["Poutine", "Butter Tarts"],
+      "best_time_to_visit": "May–Oct (warm weather)",
+      "safety_tips": "Winter is harsh; use designated crossing points",
+      "notable_hotels": ["Fairmont Royal York", "Shangri-La Toronto"],
+      "recommended_restaurants": {
+        "Richmond Station": "",
+        "Canoe": "fine dining"
+      },
+      "transportation_highlights": "TTC subway, buses, and streetcars; Presto card"
+    }
+  ]
+}

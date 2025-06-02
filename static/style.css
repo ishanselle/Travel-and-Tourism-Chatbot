@@ -1,0 +1,88 @@
+    /* Basic styling if CSS file isn't loaded */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #232323;
+      background-image: url('pictures/wavy-background.avif');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+    .chat-container {
+      max-width: 500px;
+      margin: 20px auto;
+      border: 1px solid #393dff;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 0 10px rgba(22, 9, 66, 0.533);
+      background-color: rgb(129, 126, 255);
+    }
+    .chat-header {
+      background-color: #2a4bee;
+      color: white;
+      padding: 15px;
+      font-size: 20px;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+    }
+    .chat-icon {
+      margin-right: 10px;
+    }
+    .chat-icon img {
+      height: 30px;
+      width: 30px;
+    }
+    .chat-window {
+      height: 400px;
+      overflow-y: auto;
+      padding: 15px;
+      background: linear-gradient(135deg, #869aff, #d5d9f5);
+    }
+    .chat-input-area {
+      display: flex;
+      padding: 10px;
+      background-color: #2a4bee;
+      border-top: 1px solid #ddd;
+    }
+    #user-input {
+      flex: 1;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      margin-right: 10px;
+    }
+    #send-button {
+      padding: 10px 20px;
+      background-color: #ffffff;
+      color: rgb(0, 0, 0);
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    #send-button:hover {
+      background-color: #ff0000;
+    }
+    .message {
+      margin-bottom: 15px;
+      padding: 10px;
+      border-radius: 5px;
+      max-width: 70%;
+    }
+    .user-message {
+      background-color: #e3f2fd;
+      margin-left: auto;
+      text-align: right;
+    }
+    .bot-message {
+      background-color: #f1f1f1;
+      margin-right: auto;
+    }
+    .message-time {
+      font-size: 12px;
+      color: #666;
+      margin-top: 5px;
+    }
+
+    
